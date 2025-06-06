@@ -1,0 +1,6 @@
+# Ignore system clutter
+.DS_Store
+Thumbs.db
+
+# Node / npm (will matter when we add build tools)
+node_modules/
