@@ -2,3 +2,4 @@
 body      { margin:0; font-family:system-ui, sans-serif; background:#f9fafb; color:#333; text-align:center; }
 header    { background:#0366d6; color:#fff; padding:2rem 0; }
 footer    { margin-top:3rem; font-size:.8rem; color:#666; }
+button    { margin-top: 2rem; font-size: 1.2rem; background: #0366d6; color: #fff; border: none; border-radius: 0.5rem; padding: 0.7rem 2rem; cursor: pointer; transition: background 0.2s; } button:hover { background: #024baf; }
